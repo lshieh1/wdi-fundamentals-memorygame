@@ -7,13 +7,13 @@ var checkForMatch=function() {
 	} else {
 		alert("Sorry, try again.");
 	}
-}
+};
 
 var flipCard=function(cardId) {
 	checkForMatch();
 	console.log("User flipped "+cards[cardId]);
 	cardsInPlay.push(cards[cardId]);
-}
+};
 
-flipCard(0);
+flipCard(0)
 flipCard(2);
