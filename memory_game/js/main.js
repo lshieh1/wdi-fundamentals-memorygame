@@ -15,5 +15,5 @@ var flipCard=function(cardId) {
 	cardsInPlay.push(cards[cardId]);
 };
 
-flipCard(0)
+flipCard(0);
 flipCard(2);
