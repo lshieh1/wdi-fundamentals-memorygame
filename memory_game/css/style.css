@@ -83,4 +83,14 @@ footer p {
 a:hover {
 	border-color: white;
 }
-
+#reset {
+	background-color: #F15B31;
+	font-size: 20px;
+	font-family: Raleway;
+	color: white;
+	text-transform: uppercase;
+	border: 0;
+	font-weight: 600;
+	letter-spacing: 1px;
+	padding: 10px 20px;
+}
